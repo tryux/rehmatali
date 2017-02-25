@@ -1,2 +1,2 @@
-# rehmatali
+# Rehmat Ali
 UI/UX Designer
