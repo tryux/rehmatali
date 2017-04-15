@@ -1,3 +1,3 @@
 # Rehmat Ali
 UI/UX Designer
-<a href="mailto:rehmatux@gmail.com">rehmatux@gmail.com</a>
+<a href="mailto:hello@rehmatali.com">hello@rehmatali.com</a>
